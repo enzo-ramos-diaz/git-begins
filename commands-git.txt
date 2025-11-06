@@ -1,4 +1,4 @@
-git clone <url-du-repo>
+git clone  https://github.com/enzo-ramos-diaz/git-begins.git
 
 git add .
 git commit -m "message"
